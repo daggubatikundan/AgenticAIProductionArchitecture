@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import docx; print\\('python-docx available'\\)\")",
+      "Bash(pip3 install *)",
+      "Skill(customize)",
+      "Skill(customize:*)"
+    ]
+  }
+}
